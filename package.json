@@ -18,5 +18,5 @@
     "deploy": "npm run build && gh-pages -d build",
     "predeploy": "npm run build"
   },
-  "homepage": "https://SuryaBabi.github.io/Neighborhood"
+  "homepage": "https://suryababi.github.io/Neighborhood/"
 }
