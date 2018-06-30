@@ -1,0 +1,80 @@
+[
+  {
+    "name": "Bhimavaram-junction",
+    "type": "Railway",
+    "latitude": 16.544570,
+    "longitude": 81.537357
+  },
+  {
+    "name": "Police Bomma Center",
+    "type": "Place",
+    "latitude": 16.544956,
+    "longitude": 81.526515
+  },
+  {
+    "name": "State Bank of India ",
+    "type": "Bank",
+    "latitude": 16.545339,
+    "longitude": 81.528078
+  },
+  {
+    "name": "World Of Titan",
+    "type": "Shop",
+    "latitude": 16.545033,
+    "longitude": 81.527215
+  },
+  {
+    "name": "HDFC",
+    "type": "Bank ATM",
+    "latitude": 16.544797,
+    "longitude": 81.528579
+  },
+  {
+    "name": "Bhimavaram",
+    "type": "Bus-stand",
+    "latitude": 16.545060,
+    "longitude": 81.529752
+  },
+  {
+    "name": "Sri Mavullamma Vari",
+    "type": "Temple",
+    "latitude": 16.542791,
+    "longitude": 81.525603
+  },
+  {
+    "name": "Passport sava kendra",
+    "type": "Place",
+    "latitude": 16.543963,
+    "longitude": 81.520393
+  },
+  {
+    "name": "Bhimavaram-Water",
+    "type": "Tank",
+    "latitude": 16.545823,
+    "longitude": 81.529917
+  },
+  {
+    "name": "Narayana E-Techno",
+    "type": "School",
+    "latitude": 16.543803,
+    "longitude": 81.526705
+  },
+  {
+    "name": "Indian",
+    "type": "Bank ATM",
+    "latitude": 16.545180,
+    "longitude": 81.525002
+  },
+  {
+    "name": "Bhimavaram-Town",
+    "type": "Railway",
+    "latitude": 16.547332,
+    "longitude": 81.519267
+  },
+  {
+    "name": "Punjab National",
+    "type": "Bank",
+    "latitude": 16.544710,
+    "longitude": 81.524210
+  }
+]
